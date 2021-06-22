@@ -8,7 +8,7 @@
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
 
-<p>
+<!-- <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>
     20 years of living a comical life! <br>
@@ -20,7 +20,7 @@
     I Love <b>Android Development</b>, xD. <br>
   </em>  
 </p>
-
+-->
 <br>
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
