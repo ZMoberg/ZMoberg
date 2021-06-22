@@ -23,7 +23,7 @@
 -->
 <br>
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **wrestling and playing hot wheels with my son** &nbsp; 🏎️  &nbsp; or *working* at my **Computer** 👨‍💻
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **wrestling** or **playing hot wheels with my son** &nbsp; 🏎️  &nbsp; or *working* at my **Computer** 👨‍💻
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Web Development** and currently learning **React** and **Shopify** &nbsp; 💪.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Your next crazy idea!**.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Hiking** and **Backpacking**🌐
