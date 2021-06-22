@@ -32,7 +32,7 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
 
-## Spotify Playing 🎧
+<!-- ## Spotify Playing 🎧-->
 
 
 <!--
@@ -44,9 +44,9 @@
 
 ![Zack's github stats](https://github-readme-stats.vercel.app/api?username=ZMoberg&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
-<br>
+<!-- <br> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZMoberg&theme=radical)
 
 
 <br>
@@ -80,4 +80,4 @@
 
 
 ## ⭐️ From [ZMoberg](https://github.com/ZMoberg)
-![Visitor Count](https://profile-counter.glitch.me/ZMoberg/count.svg) -->
+<!--![Visitor Count](https://profile-counter.glitch.me/ZMoberg/count.svg) -->
