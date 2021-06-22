@@ -29,7 +29,7 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Hiking** and **Backpacking**🌐
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **JavaScript** and **Functional Logic**
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* **K.I.S.S.** 😴
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos&nbsp;💡&nbsp; & Leave a **STAR**&nbsp;⭐️&nbsp; if you like my work&nbsp;👨‍💻.
 <br>
 
 <!-- ## Spotify Playing 🎧-->
