@@ -64,7 +64,7 @@
     <img align="left" alt="Zack Moberg | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:zmoberg@gmail.com">
-    <img align="left" alt="Zack Moberg | Gmail" width="26px" src="https://github.com/ZMoberg/ZMoberg/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Zack Moberg | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
 
