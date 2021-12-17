@@ -53,13 +53,4 @@
 <br><br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ZMoberg)
-<!-- ![visitors](https://badges.pufler.dev/visits/ZMoberg/ZMoberg)
-![Visitor Count](https://profile-counter.glitch.me/ZMoberg/count.svg) -->
 
-
-<!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
-
-
-
-## ⭐️ From [ZMoberg](https://github.com/ZMoberg)
-<!--![Visitor Count](https://profile-counter.glitch.me/ZMoberg/count.svg) -->
