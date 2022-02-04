@@ -2,8 +2,8 @@
 
 <p> I am a developer that is always looking to learn something new. I love learning daily and seeking the 'why' and 'how'. With the world of development always changing, a day will never be wasted because of something not learned and that excites me. I love talking about anything tech related from keyboards (it's a problem) to emerging technologies. I am an active member in a number of amazing communities with efforts based around the education and growth of new developers. </p>
 
-- Currently learning React and its integration with web3.js / ehters.js
-- Looking to learn Solidity and other web3 technologies
+- Currently learning React and its integration with Web3.js / Ehters.js and Solidity
+- Looking to learn more about native application development and web3 technologies
 - Reach out to me about anything, I love jumping in random projects!
 - Aspiring open source contributer (but most likely breaker)
 - Proud father to a better version of the future (except my back...that hurts)
