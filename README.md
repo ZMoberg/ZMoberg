@@ -1,21 +1,7 @@
-# Zack Moberg
 
+<p> I am a developer that is always looking to learn something new. I love learning daily and seeking the 'why' and 'how'. With the world of development always changing, a day will never be wasted because of something not learned and that excites me. </p>
 
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/ZMoberg/ZMoberg.svg)](http://hits.dwyl.com/ZMoberg/ZMoberg) 
--->
-
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
-
-<p> I am a web developer that is always looking to learn something new. I love learning daily and seeking the 'why' and 'how'. I love having the ability to handle any task from front-end styling to back-end authentication and database construction. With the world of development always changing, a day will never be wasted because of something not learned and that excites me. </p>
-
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **wrestling**, **playing hot wheels with my son** &nbsp; 🏎️  &nbsp; or *working* at my **Computer** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m a **Web Developer** and currently learning **React** and **Shopify** &nbsp; 💪.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Your next crazy idea!**.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Hiking** and **Backpacking**🌐
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **JavaScript** and **Functional Logic**
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* **K.I.S.S.** 😴
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos&nbsp;💡&nbsp; & Leave a **STAR**&nbsp;⭐️&nbsp; if you like my work&nbsp;👨‍💻.
+- Currently learning React and web3 technologies such as Solidity and Rust.
 <br>
 
 <!-- ## Spotify Playing 🎧-->
