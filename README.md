@@ -1,15 +1,20 @@
 
-<p> I am a developer that is always looking to learn something new. I love learning daily and seeking the 'why' and 'how'. With the world of development always changing, a day will never be wasted because of something not learned and that excites me. </p>
 
-- Currently learning React and web3 technologies such as Solidity and Rust.
+<p> I am a developer that is always looking to learn something new. I love learning daily and seeking the 'why' and 'how'. With the world of development always changing, a day will never be wasted because of something not learned and that excites me. I love talking about anything tech related from keyboards (it's a problem) to emerging technologies. I am an active member in a number of amazing communities with efforts based around the education and growth of new developers. </p>
+
+- Currently learning React and its integration with web3.js / ehters.js
+- Looking to learn Solidity and other web3 technologies
+- Reach out to me about anything, I love jumping in random projects!
+
+
 <br>
 
-<!-- ## Spotify Playing 🎧-->
+## Spotify Playing 🎧
 
 
-<!--
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
--->
+
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/fg01k83u6lvfznthw0bceuafi)
+
 
 <br>
 
