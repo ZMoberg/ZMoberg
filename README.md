@@ -5,6 +5,8 @@
 - Currently learning React and its integration with web3.js / ehters.js
 - Looking to learn Solidity and other web3 technologies
 - Reach out to me about anything, I love jumping in random projects!
+- Aspiring open source contributer (but most likely breaker)
+- Proud father to a better version of the future (except my back...that hurts)
 
 
 <br>
