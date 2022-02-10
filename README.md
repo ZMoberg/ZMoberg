@@ -6,7 +6,7 @@
 - Looking to learn more about native application development and web3 technologies
 - Reach out to me about anything, I love jumping in random projects!
 - Aspiring open source contributer (but most likely breaker)
-- I love mechanical keyboards (...seriously, it's a problem)
+
 
 
 
